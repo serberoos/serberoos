@@ -1,6 +1,7 @@
 ### 안녕하세요! 👋 I'm JaeGeun
 ---
 ## A university student, software engineer and investor 
+Notion : https://www.notion.so/Serberoos-s-Notion-2aba767327b441ac9ec91b8674e46857
 <!--
 **serberoos/serberoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
