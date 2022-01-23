@@ -1,14 +1,26 @@
-### 안녕하세요! 👋 I'm JaeGeun
+###  Hi There, 👋 I'm **JaeGeun.Song** 
 ---
-## A university student, software engineer
-Notion : https://www.notion.so/Serberoos-s-Notion-2aba767327b441ac9ec91b8674e46857
-<!--
-**serberoos/serberoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### 🙋‍♂️ Glad to see you here!!
+I am also a **software engineer**, **learner**, and **teacher**.
+
+I want to develop myself through constant learning and questions, share what I have learned with people around me, and grow up together.
+
+---
+### ✍️ Personal Stuffs
+* 🖥️ **I’m currently working on** : `Machine Learning Infra Structure`
+* 🌱 **I'm currently learning** : `Machine Learning Infra Structure Frameworks`
+
+* ⁉ **interest in technology** : `Backend`, `Infra Structure`
+
+* ⁉ **Another interest** : `Financial engineering`, `economics` 
+
+
+<!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
