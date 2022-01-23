@@ -10,9 +10,7 @@ I want to develop myself through constant learning and questions, share what I h
 ### ✍️ Personal Stuffs
 * 🖥️ **I’m currently working on** : `Machine Learning Infra Structure`
 * 🌱 **I'm currently learning** : `Machine Learning Infra Structure Frameworks`
-
 * 🤔 **interest in technology** : `Backend`, `Infra Structure`
-
 * ⁉ **Another interest** : `Financial engineering`, `economics` 
 * 📫 **How to reach me** : jae99c@gmail.com
 
