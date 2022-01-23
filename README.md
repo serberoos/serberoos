@@ -20,4 +20,4 @@ I want to develop myself through constant learning and questions, share what I h
 * ⁉ **Another interest** : `Financial engineering`, `economics` 
 
 ![JaeGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=serberoos&show_icons=true&theme=swift)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serberoos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serberoos)](https://github.com/anuraghazra/github-readme-stats)
