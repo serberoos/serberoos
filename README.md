@@ -3,8 +3,8 @@
 
 I am also a **software engineer**, **learner**, and **teacher**! I want to develop myself through constant learning and questions, share what I have learned with people around me, and grow up together.
 
-🖥️ **I’m currently working on** : `Machine Learning Infra Structure` </br>
-🌱 **I'm currently learning** : `Machine Learning Infra Structure Frameworks` </br>
+🖥️ **I’m currently working on** : `CookAloneReceipe Wiki` </br>
+🌱 **I'm currently learning** : `SpringFramework`, `JPA`, `infra Structure` </br>
 🤔 **interest in technology** : `Backend`, `Infra Structure` </br>
 ⁉ **Another interest** : `Financial engineering`, `economics` 
 
