@@ -5,14 +5,14 @@ I am also a **software engineer**, **learner**, and **teacher**! I want to devel
 
 🖥️ **I’m currently working on** : `CookAloneReceipe Wiki` </br>
 🌱 **I'm currently learning** : `SpringFramework`, `JPA`, `infra Structure` </br>
-🤔 **interest in technology** : `Backend`, `Infra Structure` </br>
+🤔 **interest in technology** : `Backend`, `Infra Structure`, `Clean Code` </br>
 ⁉ **Another interest** : `Financial engineering`, `economics` 
 
 <a href="https://www.notion.so/Computer-Engineering-3337f4e7ad3f4fd79625b6f965e1a2fe" target="_blank"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://velog.io/@serberos" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://hub.docker.com/u/jae99c" target="_blank"><img src="https://img.shields.io/badge/Docker Hub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <a href="https://leetcode.com/serberoos/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"/></a>
-<a href="https://serberoos-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio(👷‍ IN PRODUCTION)-35ad9f?style=flat-square&logo=&logoColor=white"/></a> 
+<a href="https://serberoos-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-35ad9f?style=flat-square&logo=&logoColor=white"/></a> 
 
 ## <div align=center> 🛠️ Language </div>
 <div align=center>
