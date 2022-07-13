@@ -23,9 +23,8 @@ I am also a **software engineer**, **learner**, and **teacher**! I want to devel
     
 ## <div align=center> 🧰 Frameworks </div>
 <div align=center>
-  <image src="https://user-images.githubusercontent.com/74893599/154959697-0c1ad4ae-d7be-47a3-a082-a3b645945452.PNG" height="50">
+  <image src="https://user-images.githubusercontent.com/74893599/178640959-52236859-4266-4a8d-863d-c1ade5a9208b.png" height="50">
 </div>
-
     
 ![JaeGeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=serberoos&show_icons=true&theme=swift)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serberoos)](https://github.com/anuraghazra/github-readme-stats)
