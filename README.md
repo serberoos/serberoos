@@ -3,9 +3,9 @@
 
 I am also a **software engineer**, **learner**, and **teacher**! I want to develop myself through constant learning and questions, share what I have learned with people around me, and grow up together.
 
-🖥️ **I’m currently working on** : `CookAloneReceipe Wiki` </br>
-🌱 **I'm currently learning** : `SpringFramework`, `JPA`, `infra Structure`, `vue,js` </br>
-🤔 **interest in technology** : `Backend`, `Infra Structure`, `Clean Code`, `kubernetes`, `terraform`, `helm`, `vue,js` </br>
+🖥️ **I’m currently working on** : `CookAloneReceipe Spring web project`, `Cookalone AWS CI/CD Pipeline` </br>
+🌱 **I'm currently learning** : `SpringFramework`, `JPA`, `infra Structure`, `vue,js`, `AWS`, `kubernetes`, `MSA` </br>
+🤔 **interest in technology** : `Backend`, `Infra Structure`, `Clean Code`, `terraform`, `helm`</br>
 ⁉ **Another interest** : `Financial engineering`, `economics` 
 
 <a href="https://www.notion.so/Computer-Engineering-3337f4e7ad3f4fd79625b6f965e1a2fe" target="_blank"><img src="https://img.shields.io/badge/Notion-333333?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
